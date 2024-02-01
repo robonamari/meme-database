@@ -1,7 +1,7 @@
 # meme-api
 
-
-
+# Help 
+Example in Python language in the following file:
 
 # References
 * [Discord Moonfall Server](https://discord.gg/BsaC3QgEQz)
