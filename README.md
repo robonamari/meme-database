@@ -4,7 +4,7 @@ Send requests to: https://raw.githubusercontent.com/robonamari/meme-api/main/URL
 # Help 
 Example in Python language in the following file:
 
-[click](https://github.com/robonamari/meme-api/blob/main/main.py))
+[click](https://github.com/robonamari/meme-api/blob/main/main.py)
 
 # References
 * [Discord Moonfall Server](https://discord.gg/BsaC3QgEQz)
