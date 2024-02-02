@@ -1,5 +1,9 @@
-# meme-api
+![Static Badge](https://img.shields.io/badge/python-%E2%88%9E-blue)
+<hr>
+
 Send requests to: https://raw.githubusercontent.com/robonamari/meme-api/main/URL.json
+- [x] عکس و ویدیو
+- [ ] لینک های کوتاه
 
 # Help 
 Example in Python language in the following file:
