@@ -1,7 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/python-%E2%88%9E-blue)
 ___
 
-
+# English
 
 Send your requests here: https://raw.githubusercontent.com/robonamari/meme-api/main/URL.json
 - [x] Picture and Video
@@ -24,8 +24,8 @@ An exmaple to gather links with python:
 * [Roz Sorkh 🌹 Discord Server](https://discord.gg/a7jbGR99bW)
 
 
-
-درخواست ها را به لینک روبه رو ارسال کنید: https://raw.githubusercontent.com/robonamari/meme-api/main/URL.json
+# فارسی
+درخواست ها را به لینک رو به رو ارسال کنید: https://raw.githubusercontent.com/robonamari/meme-api/main/URL.json
 - [x] عکس و ویدیو
 - [ ] میم متنی
 - [ ] لینک های کوتاه
