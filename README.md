@@ -1,5 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/python-%E2%88%9E-blue)
-<hr>
+___
 
 
 
