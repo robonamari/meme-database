@@ -5,20 +5,20 @@
 
 درخواست ها را به لینک روبه رو ارسال کنید: https://raw.githubusercontent.com/robonamari/meme-api/main/URL.json
 - [x] عکس و ویدیو
+- [ ] میم متنی
 - [ ] لینک های کوتاه
 
 # کمک 
 نمونه ای برای دریافت لینک ها به زبان پایتون:
-
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
 [کلیک](https://github.com/robonamari/meme-api/blob/main/main.py)
 
-# References
-* [Discord Moonfall Server](https://discord.gg/BsaC3QgEQz)
-* [Discord Roz Sorkh Server](https://discord.gg/a7jbGR99bW)
+
+| عکس| ویدیو|
+|:-------------:|:-------------:|
+|نامعلوم|نامعلوم|
+
+
+
+# منابع
+* [سرور سقوط ماه در دیسکورد](https://discord.gg/BsaC3QgEQz)
+* [سرور رز سرخ در دیسکورد](https://discord.gg/a7jbGR99bW)
