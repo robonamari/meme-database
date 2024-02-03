@@ -3,6 +3,28 @@ ___
 
 
 
+Send your requests here: https://raw.githubusercontent.com/robonamari/meme-api/main/URL.json
+- [x] Picture and Video
+- [ ] Text based memes
+- [ ] Shorted links
+
+# Help
+An exmaple to gather links with python:
+[Click Here](https://github.com/robonamari/meme-api/blob/main/main.py)
+
+
+|Picture|Video|
+|:-------------:|:-------------:|
+|Unreadable|Unreadable|
+
+
+
+# Sources
+* [MoonFall Discord Server](https://discord.gg/BsaC3QgEQz)
+* [Roz Sorkh 🌹 Discord Server](https://discord.gg/a7jbGR99bW)
+
+
+
 درخواست ها را به لینک روبه رو ارسال کنید: https://raw.githubusercontent.com/robonamari/meme-api/main/URL.json
 - [x] عکس و ویدیو
 - [ ] میم متنی
