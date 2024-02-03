@@ -3,13 +3,19 @@
 
 
 
-
 درخواست ها را به لینک روبه رو ارسال کنید: https://raw.githubusercontent.com/robonamari/meme-api/main/URL.json
 - [x] عکس و ویدیو
 - [ ] لینک های کوتاه
 
 # کمک 
 نمونه ای برای دریافت لینک ها به زبان پایتون:
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 [کلیک](https://github.com/robonamari/meme-api/blob/main/main.py)
 
