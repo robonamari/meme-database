@@ -8,18 +8,18 @@ Send your requests here: https://raw.githubusercontent.com/robonamari/meme-api/m
 - [ ] Text based memes
 - [ ] Shorted links
 
-# Help
+### Help
 An exmaple to gather links with python:
 [Click Here](https://github.com/robonamari/meme-api/blob/main/main.py)
 
 
-|Picture|Video|
-|:-------------:|:-------------:|
+|  Picture |  Video   |
+|:--------:|:--------:|
 |Unreadable|Unreadable|
 
 
 
-# Sources
+### Sources
 * [MoonFall Discord Server](https://discord.gg/BsaC3QgEQz)
 * [Roz Sorkh 🌹 Discord Server](https://discord.gg/a7jbGR99bW)
 
@@ -30,17 +30,17 @@ An exmaple to gather links with python:
 - [ ] میم متنی
 - [ ] لینک های کوتاه
 
-# کمک 
+### کمک 
 نمونه ای برای دریافت لینک ها به زبان پایتون:
 [کلیک](https://github.com/robonamari/meme-api/blob/main/main.py)
 
 
-| عکس| ویدیو|
-|:-------------:|:-------------:|
+|عکس|ویدیو|
+|:------:|:------:|
 |نامعلوم|نامعلوم|
 
 
 
-# منابع
+### منابع
 * [سرور سقوط ماه در دیسکورد](https://discord.gg/BsaC3QgEQz)
 * [سرور رز سرخ در دیسکورد](https://discord.gg/a7jbGR99bW)
