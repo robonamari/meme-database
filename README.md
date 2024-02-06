@@ -6,7 +6,7 @@ ___
 Send your requests here: https://raw.githubusercontent.com/robonamari/meme-api/main/URL.json
 - [x] Picture and Video
 - [ ] Text based memes
-- [ ] Shorted links
+- [x] Shorted links
 
 ### Help
 An exmaple to gather links with python:
@@ -28,7 +28,7 @@ An exmaple to gather links with python:
 درخواست ها را به لینک رو به رو ارسال کنید: https://raw.githubusercontent.com/robonamari/meme-api/main/URL.json
 - [x] عکس و ویدیو
 - [ ] میم متنی
-- [ ] لینک های کوتاه
+- [x] لینک های کوتاه
 
 ### کمک 
 نمونه ای برای دریافت لینک ها به زبان پایتون:
