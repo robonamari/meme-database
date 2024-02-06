@@ -13,9 +13,9 @@ An exmaple to gather links with python:
 [Click Here](https://github.com/robonamari/meme-api/blob/main/main.py)
 
 
-|  Picture |  Video   |
-|:--------:|:--------:|
-|Unreadable|Unreadable|
+|Picture|Video|
+|:----:|:----:|
+|369|Unreadable|
 
 
 
@@ -37,7 +37,7 @@ An exmaple to gather links with python:
 
 |عکس|ویدیو|
 |:------:|:------:|
-|نامعلوم|نامعلوم|
+|369|نامعلوم|
 
 
 
