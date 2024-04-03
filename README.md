@@ -15,7 +15,7 @@ An exmaple to gather links with python:
 
 |Picture|Video|
 |:----:|:----:|
-|369   |1013  |
+|584   |1629  |
 
 
 
@@ -37,7 +37,7 @@ An exmaple to gather links with python:
 
 |عکس|ویدیو|
 |:---:|:---:|
-|369|1013|
+|584|1629|
 
 
 
