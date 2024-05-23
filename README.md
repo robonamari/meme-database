@@ -23,6 +23,8 @@ An exmaple to gather links with python:
 * [MoonFall Discord Server](https://discord.gg/BsaC3QgEQz)
 * [Roz Sorkh 🌹 Discord Server](https://discord.gg/a7jbGR99bW)
 
+
+
 ### Contributors
 [![contributors](https://contrib.rocks/image?repo=robonamari/meme-database)](https://github.com/robonamari/meme-database/graphs/contributors)
 
