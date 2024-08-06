@@ -3,14 +3,14 @@ ___
 
 # English
 
-Send your requests here: https://raw.githubusercontent.com/robonamari/meme-api/main/URL.json
+Send your requests here: https://raw.githubusercontent.com/robonamari/meme-database/main/URL.json
 - [x] Picture and Video
 - [ ] Text based memes
 - [x] Shorted links
 
 ### Help
 An exmaple to gather links with python:
-[Click Here](https://github.com/robonamari/meme-api/blob/main/main.py)
+[Click Here](https://github.com/robonamari/meme-database/blob/main/main.py)
 
 
 |Picture|Video|
@@ -30,14 +30,14 @@ An exmaple to gather links with python:
 
 
 # فارسی
-درخواست ها را به لینک رو به رو ارسال کنید: https://raw.githubusercontent.com/robonamari/meme-api/main/URL.json
+درخواست ها را به لینک رو به رو ارسال کنید: https://raw.githubusercontent.com/robonamari/meme-database/main/URL.json
 - [x] عکس و ویدیو
 - [ ] میم متنی
 - [x] لینک های کوتاه
 
 ### کمک 
 نمونه ای برای دریافت لینک ها به زبان پایتون:
-[کلیک](https://github.com/robonamari/meme-api/blob/main/main.py)
+[کلیک](https://github.com/robonamari/meme-database/blob/main/main.py)
 
 
 |عکس|ویدیو|
