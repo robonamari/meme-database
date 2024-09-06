@@ -13,9 +13,9 @@ An exmaple to gather links with python:
 [Click Here](https://github.com/robonamari/meme-database/blob/main/main.py)
 
 
-|Picture|Video|
-|:----:|:----:|
-|584   |1629  |
+|Picture|Video |total |
+|:-----:|:----:|:----:|
+|632    |1902  |2534  |
 
 
 
@@ -35,14 +35,14 @@ An exmaple to gather links with python:
 - [ ] میم متنی
 - [x] لینک های کوتاه
 
-### کمک 
+### کمک
 نمونه ای برای دریافت لینک ها به زبان پایتون:
 [کلیک](https://github.com/robonamari/meme-database/blob/main/main.py)
 
 
-|عکس|ویدیو|
-|:---:|:---:|
-|584|1629|
+|عکس|ویدیو |مجموع|
+|:---:|:---:|:---:|
+|632  |1902 |2534 |
 
 
 
