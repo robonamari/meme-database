@@ -3,7 +3,7 @@ ___
 
 # English
 
-Send your requests here: https://raw.githubusercontent.com/robonamari/meme-database/main/URL.json
+Send your requests here: https://meme-database.robonamari.com/URL.json
 - [x] Picture
 - [x] Video
 - [ ] Text based memes
@@ -31,7 +31,7 @@ An exmaple to gather links with python:
 
 
 # فارسی
-درخواست ها را به لینک رو به رو ارسال کنید: https://raw.githubusercontent.com/robonamari/meme-database/main/URL.json
+درخواست ها را به لینک رو به رو ارسال کنید: https://meme-database.robonamari.com/URL.json
 - [x] عکس
 - [x] ویدیو
 - [ ] میم متنی
