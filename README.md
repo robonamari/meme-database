@@ -4,7 +4,8 @@ ___
 # English
 
 Send your requests here: https://raw.githubusercontent.com/robonamari/meme-database/main/URL.json
-- [x] Picture and Video
+- [x] Picture
+- [x] Video
 - [ ] Text based memes
 - [x] Shorted links
 
@@ -31,7 +32,8 @@ An exmaple to gather links with python:
 
 # فارسی
 درخواست ها را به لینک رو به رو ارسال کنید: https://raw.githubusercontent.com/robonamari/meme-database/main/URL.json
-- [x] عکس و ویدیو
+- [x] عکس
+- [x] ویدیو
 - [ ] میم متنی
 - [x] لینک های کوتاه
 
