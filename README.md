@@ -50,7 +50,7 @@ An exmaple to gather links with python:
 
 ### منابع
 * [سرور سقوط ماه در دیسکورد](https://discord.gg/BsaC3QgEQz)
-* [سرور رز سرخ در دیسکورد](https://discord.gg/a7jbGR99bW)
+* [سرور رز سرخ 🌹 در دیسکورد](https://discord.gg/a7jbGR99bW)
 
 
 
