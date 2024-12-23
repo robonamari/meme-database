@@ -4,7 +4,7 @@ addEventListener('fetch', event => {
 
 async function handleRequest(request) {
   const url = new URL(request.url)
-    if (url.hostname === 'robonamari.com') {
+    if (url.hostname === 'meme-database.robonamari.com') {
     const discordPath = url.pathname
     const discordUrl = `https://cdn.discordapp.com${discordPath}`
         const response = await fetch(discordUrl, {
