@@ -18,15 +18,15 @@
 - [ ] میم متنی
 - [x] لینک های کوتاه
 
-### کمک
+## کمک
 نمونه ای برای دریافت لینک ها به زبان پایتون:
 [کلیک](https://github.com/robonamari/meme-database/blob/main/main.py)
 
 
 |عکس|ویدیو |مجموع|
-|:---:|:---:|:---:|
-|632  |1902 |2534 |
+| ---- | ---- | ---- |
+| 632  | 1902 | 2534 |
 
-### Sources
+## Sources
 * [MoonFall Discord Server](https://discord.gg/BsaC3QgEQz)
 * [Roz Sorkh 🌹 Discord Server](https://discord.gg/a7jbGR99bW)
