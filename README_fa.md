@@ -26,3 +26,7 @@
 |عکس|ویدیو |مجموع|
 |:---:|:---:|:---:|
 |632  |1902 |2534 |
+
+### Sources
+* [MoonFall Discord Server](https://discord.gg/BsaC3QgEQz)
+* [Roz Sorkh 🌹 Discord Server](https://discord.gg/a7jbGR99bW)
