@@ -12,7 +12,7 @@
 
 ---
 
-This script fetches a random meme URL from an online JSON database.
+This project contains a collection of meme links stored in a JSON file.
 
 ## Features
 - Fetches meme URLs from an online JSON database.
