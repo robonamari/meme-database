@@ -12,19 +12,19 @@
 
 ---
 
-Send your requests here: [https://meme-database.robonamari.com/URL.json](https://meme-database.robonamari.com/URL.json)
-- [x] Picture
-- [x] Video
-- [ ] Text based memes
-- [x] Shorted links
+This script fetches a random meme URL from an online JSON database.
+
+## Features
+- Fetches meme URLs from an online JSON database.
+- Only contains short links for quick access.
+
+| Picture | Video  | Text | total  |
+| ------- | ------ | ---- | ------ |
+| 632     | 1902   | :x:  | 2534   |
 
 ## Help
 An exmaple to gather links with python:
 [Click Here](https://github.com/robonamari/meme-database/blob/main/main.py)
-
-| Picture | Video  | total |
-| ------- | ------ |------ |
-| 632     | 1902   | 2534  |
 
 ## Sources
 * [MoonFall Discord Server](https://discord.gg/BsaC3QgEQz)
