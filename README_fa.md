@@ -23,7 +23,7 @@
 [کلیک](https://github.com/robonamari/meme-database/blob/main/main.py)
 
 
-|عکس|ویدیو |مجموع|
+| عکس | ویدیو | مجموع |
 | ---- | ---- | ---- |
 | 632  | 1902 | 2534 |
 
