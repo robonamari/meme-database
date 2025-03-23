@@ -6,7 +6,7 @@
 <p align="center">
     <img src="https://img.shields.io/github/languages/code-size/robonamari/meme-database?style=flat" alt="Code Size">
     <img src="https://tokei.rs/b1/github/robonamari/meme-database?style=flat" alt="Total lines">
-    <img src="https://img.shields.io/badge/python-%5E3.7-blue" alt="Python Versions">
+    <img src="https://img.shields.io/badge/all%20languages-all%20Versions-blue" alt="All Versions">
     <img src="https://img.shields.io/github/license/robonamari/meme-database" alt="GitHub license">
 </p>
 
@@ -18,9 +18,9 @@
 - دریافت لینک های میم از یک پایگاه داده آنلاین JSON.
 - شامل فقط لینک های کوتاه برای دسترسی سریع.
 
-| عکس | ویدیو  | متن |     کل  |
-| ------ | ------ | ---- | ------ |
-| 632    | 1902   | ❌   | 2534   |
+| عکس | ویدیو |    متن |     کل    |
+| ------ | ------ | ------ | ------ |
+| 632    | 1902   | ❌     | 2534   |
 
 ## کمک
 نمونه ای برای دریافت لینک ها به زبان پایتون:
