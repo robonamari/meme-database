@@ -18,9 +18,9 @@ This project contains a collection of meme links stored in a JSON file.
 - Fetches meme URLs from an online JSON database.
 - Only contains short links for quick access.
 
-| Picture | Video  | Text | total  |
-| ------- | ------ | ---- | ------ |
-| 632     | 1902   | :x:  | 2534   |
+| Picture | Video  | Text | Gif    | total  |
+| ------- | ------ | ---- | ------ | ------ |
+| 632     | 1902   | :x:  |        | 2534   |
 
 ## Help
 An exmaple to gather links with python:
