@@ -12,7 +12,7 @@
 
 ---
 
-This project contains a collection of meme links stored in a JSON file.
+This project contains a collection of Iranian memes presented in a JSON file. This collection can be utilized in various applications and services to display content to users.
 
 ## Features
 - Fetches meme URLs from an online JSON database.
