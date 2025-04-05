@@ -27,11 +27,13 @@ An exmaple to gather links with python:
 ```python
 import random
 
-import requests # pip install requests==2.32.3
+import requests  # pip install requests==2.32.3
 
 print(
     random.choice(
-        requests.get("https://meme-database.robonamari.com/database.json").json()["links"]
+        requests.get("https://meme-database.robonamari.com/database.json").json()[
+            "links"
+        ]
     )
 )
 ```
