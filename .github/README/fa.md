@@ -24,7 +24,17 @@
 
 ## کمک
 نمونه ای برای دریافت لینک ها به زبان پایتون:
-[کلیک](https://github.com/robonamari/meme-database/blob/main/main.py)
+```python
+import random
+
+import requests # pip install requests==2.32.3
+
+print(
+    random.choice(
+        requests.get("https://meme-database.robonamari.com/database.json").json()["links"]
+    )
+)
+```
 
 ## منابع
 * [MoonFall Discord Server](https://discord.gg/BsaC3QgEQz)
