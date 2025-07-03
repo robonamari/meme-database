@@ -5,10 +5,10 @@
 </div>
 
 <p align="center">
-    <img src="https://img.shields.io/github/languages/code-size/robonamari/meme-database?style=flat" alt="Code Size">
-    <img src="https://tokei.rs/b1/github/robonamari/meme-database?style=flat" alt="Total lines">
-    <img src="https://img.shields.io/badge/all%20languages-all%20Versions-blue" alt="All Versions">
-    <img src="https://img.shields.io/github/license/robonamari/meme-database" alt="GitHub license">
+  <img src="https://img.shields.io/github/languages/code-size/robonamari/meme-database?style=flat" alt="Code Size">
+  <img src="https://tokei.rs/b1/github/robonamari/meme-database?style=flat" alt="Total lines">
+  <img src="https://img.shields.io/badge/all%20languages-all%20Versions-blue" alt="All Versions">
+  <img src="https://img.shields.io/github/license/robonamari/meme-database" alt="GitHub license">
 </p>
 
 ---
@@ -26,21 +26,7 @@ This project contains a collection of Iranian memes presented in a JSON file. Th
 
 ## Help
 
-An exmaple to gather links with python:
-
-```python
-import random
-
-import requests  # pip install requests==2.32.3
-
-print(
-    random.choice(
-        requests.get("https://meme-database.robonamari.com/database.json").json()[
-            "links"
-        ]
-    )
-)
-```
+Example scripts for gathering links can be found in the examples/ directory.
 
 ## Sources
 
