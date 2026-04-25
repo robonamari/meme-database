@@ -20,7 +20,7 @@ This project contains a collection of Iranian memes presented in a JSON file. Th
 
 | Picture | Video | Text | Gif | total |
 | :-----: | :---: | :--: | :-: | :---: |
-|   632   | 1902  | :x:  | :x: | 2534  |
+| :x: | :x: | :x: | :x: | 0 |
 
 ## Help
 
